@@ -24,7 +24,7 @@ const AppStore = () => {
             >
               {/* text section */}
               <h1 className="text-2xl text-center sm:text-left sm:text-4xl font-semibold text-white/90 pl-3">
-                        --SOON--
+                        
                 Green  Coffee  is available for Android and IOS  
               </h1>
               {/* img section */}
